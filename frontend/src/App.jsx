@@ -158,12 +158,9 @@ export default function App() {
         <header className="hero">
           <div className="hero-tag">◆ BTC/USD · ML PREDICTOR</div>
           <h1 className="hero-title">
-            I predict NY market moves,<br />
-            using <span className="highlight-italic">models</span> that explain themselves.
+            Predict NY market moves,<br />
           </h1>
           <p className="hero-subtitle">
-            Machine learning practitioner specializing in scalable FastAPI/React architectures. 
-            Proven experience building end-to-end platforms and deploying intelligent features.
             Predicting BTC/USD direction for the NY Session with high-confidence insights.
           </p>
         </header>
